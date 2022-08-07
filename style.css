@@ -38,6 +38,18 @@ body {
     margin-block: 10px;
 }
 
+.my-label {
+    margin: 10px auto;
+    box-sizing: border-box;
+    display: block;
+    background: purple;
+    padding: 10px;
+    border-radius: 10px;
+    width: 80%;
+    text-align: center;
+    color: white;
+}
+
 .my-button2:hover {
     color: white;
 }
